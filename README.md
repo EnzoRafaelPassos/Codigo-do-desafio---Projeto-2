@@ -1,4 +1,4 @@
-<h1 align="center"> PROJETO DA FORMAÇÃo FULL-STACK DA ROCKETSEAT </h1>
+<h1 align="center"> PROJETO DA FORMAÇÃO FULL-STACK DA ROCKETSEAT </h1>
 
 <p align="center">
 Projeto construído para fins de aprendizado <br/>
@@ -6,7 +6,6 @@ Projeto construído para fins de aprendizado <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 
  
 </p>
